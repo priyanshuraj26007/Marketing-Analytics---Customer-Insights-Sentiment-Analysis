@@ -136,7 +136,7 @@ Dashboard includes:
 
 ---
 
-# 📈 Key Business Insights
+# Key Business Insights
 
 Some important insights generated from the analysis include:
 
@@ -149,7 +149,7 @@ Some important insights generated from the analysis include:
 
 ---
 
-# 📚 Skills Demonstrated
+# Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis
