@@ -21,10 +21,8 @@ The objective is to transform raw transactional data into actionable insights th
 
 * **Python**
 
-  * Pandas
-  * NumPy
-  * Matplotlib
-* **SQL (MySQL)**
+  **Pandas**
+* **MySQL**
 * **Power BI**
 * **Google Colab**
 
@@ -131,32 +129,6 @@ Dashboard includes:
 * Purchase Distribution
 * Customer Segmentation
 * Interactive Filters and Slicers
-
----
-
-# Key Business Insights
-
-Some important insights generated from the analysis include:
-
-* Identified the highest revenue-generating customer segments.
-* Determined which product categories contribute the most to total sales.
-* Analyzed how discounts influence customer spending.
-* Compared purchasing patterns across different seasons.
-* Identified high-value customers based on purchase behavior.
-* Highlighted demographic trends affecting customer purchases.
-
----
-
-# Skills Demonstrated
-
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* SQL Query Writing
-* Business Intelligence
-* Dashboard Development
-* Data Storytelling
-* Business Recommendation Generation
 
 ---
 # Author 
