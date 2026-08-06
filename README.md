@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This project is an end-to-end Data Analytics portfolio project that demonstrates the complete analytics workflow followed by professional data analysts. Starting from raw customer shopping data, the project covers data cleaning, exploratory analysis, SQL-based business insights, and interactive Power BI dashboard creation.
-
 The objective is to transform raw transactional data into actionable insights that help businesses understand customer purchasing behavior, identify revenue drivers, and make data-driven decisions.
 
 ---
